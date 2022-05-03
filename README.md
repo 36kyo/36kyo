@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- ロボット、VR、電子工作、顔文字が好きです。 / I love robot, VR, electric work and emoticon.
+- [homepage](https://36kyo.github.io/)  
+- ![Twitter Follow](https://img.shields.io/twitter/follow/36kyo?style=social)
+
+
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=36kyo) -->
+
 <!--
 **36kyo/36kyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
