@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - ロボット、VR、電子工作、顔文字が好きです。 / I love robot, VR, electric work and emoticon.
-- [homepage](https://36kyo.github.io/)  
-- ![Twitter Follow](https://img.shields.io/twitter/follow/36kyo?style=social)
-
-
+<!-- - [homepage](https://36kyo.github.io/)   -->
+- [![homepage](https://img.shields.io/badge/homepage-36kyo.github.io-lightgrey)](https://36kyo.github.io)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/36kyo?style=social)
+  [![hatenablog](https://img.shields.io/badge/hatenablog-%E8%9B%8D%E7%9F%B3%E8%A3%BD%E4%BD%9C%E6%89%80-lightgrey)](https://fluorite36.hatenablog.com/)  
+<!-- https://lapras.com/public/L5F0JPX -->
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=36kyo) -->
 
 <!--
